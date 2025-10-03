@@ -14,7 +14,7 @@ public class DataTypes {
 		System.out.println("Order Status: "+orderplaced);
 		
 		//3. Person's phone number: "123-456-7890"
-		long phonenumber = 1234567890l;
+		String phonenumber = "1234567890l";
 		System.out.println("person phone number is: " +phonenumber );
 		
 		//4. Amount of money in a customer's bank account: 1000.50
@@ -48,7 +48,7 @@ public class DataTypes {
 		System.out.println("Current year is: "+currentyear);
 		
 		//11.Number of followers on a social media platform: 1,000,000
-		int followersonSM= 1000000;
+		String followersonSM= "1000000";
 		System.out.println("No of Followers in social media are: "+followersonSM );
 		
 		//12.Rating of a movie: 7.5
