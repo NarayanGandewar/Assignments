@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"External Specifications","h":"","u":"external-specs.html"},{"l":"Java Object Serialization Specification","h":"language.basics.FirstJavaClass.main(String[])","d":"External Specification","u":"language/basics/FirstJavaClass.html#JavaObjectSerializationSpecification"}];updateSearchResults();
