@@ -34,14 +34,14 @@ public class FirstJavaClass {
 	
 	
 	/**
-	 * This is the common base class of all Java language enumeration classes.
+	 * This is the common base class of all Java language enumeration classesAndObjects.
 	 *
 	 * More information about enums, including descriptions of the
 	 * implicitly declared methods synthesized by the compiler, can be
 	 * found in section {@jls 8.9} of <cite>The Java Language
 	 * Specification</cite>.
 	 *
-	 * Enumeration classes are all serializable and receive special handling
+	 * Enumeration classesAndObjects are all serializable and receive special handling
 	 * by the serialization mechanism. The serialized representation used
 	 * for enum constants cannot be customized. Declarations of methods
 	 * and fields that would otherwise interact with serialization are
