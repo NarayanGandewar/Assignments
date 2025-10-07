@@ -1,4 +1,4 @@
-package classesAndObjects;
+package Assignments;
 
 public class EmpGroups {
 
